@@ -1,2 +1,13 @@
-# API-REST-de-Gestion-de-Productos-Java-Spring-Boot
-CRUD completo para productos con validaciones.  Conexión a base de datos MySQL o PostgreSQL.  Endpoints documentados con Postman.  Arquitectura basada en Controlador–Servicio–Repositorio.
+API REST de Gestión de Productos – Java & Spring Boot
+
+CRUD completo (crear, leer, actualizar, eliminar).
+
+Arquitectura en capas (Controlador – Servicio – Repositorio).
+
+Conexión a MySQL usando Spring Data JPA.
+
+Endpoints documentados y probados con Postman.
+
+Manejo de validaciones y respuestas HTTP.
+
+Proyecto escalable y listo para producción.
